@@ -10,6 +10,8 @@ token=<bot_token> npm start
 
 # expose local server
 lt --port 8000
+
+# or use ngork
 ```
 
 ## Botkit Starter Kit
