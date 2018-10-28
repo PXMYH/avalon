@@ -1,14 +1,14 @@
 {
-  "name": "botkit-starter-slack",
-  "version": "0.0.2",
-  "description": "A starter kit for building a custom Slack bot with Botkit Studio",
-  "main": "bot.js",
+  "name": "cyclops",
+  "version": "0.0.1",
+  "description": "Slackbot for Eagle Eye Project",
+  "main": "cyclops.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node cyclops.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
-    "botkit": "^0.6.15",
+    "botkit": "^0.6.18",
     "botkit-storage-mongo": "^1.0.6",
     "botkit-studio-metrics": "^0.0.2",
     "cookie-parser": "^1.4.3",
@@ -23,17 +23,17 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/howdyai/botkit-starter-slack.git"
+    "url": "https://github.com/PXMYH/cyclops.git"
   },
   "bugs": {
-    "url": "https://github.com/howdyai/botkit-starter-slack/issues"
+    "url": "https://github.com/PXMYH/cyclops/issues"
   },
-  "homepage": "https://github.com/howdyai/botkit-starter-slack",
+  "homepage": "https://github.com/PXMYH/cyclops",
   "keywords": [
     "bots",
     "chatbots",
     "slack"
   ],
-  "author": "ben@howdy.ai",
-  "license": "ISC"
+  "author": "Michael Hu",
+  "license": "MIT"
 }

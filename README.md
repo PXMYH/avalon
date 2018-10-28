@@ -6,8 +6,7 @@ Slackbot for Eagle Eye project integration
 
 ```bash
 npm install
-cd node_modules/botkit
-token=<bot_token> node slackbot.js
+token=<bot_token> npm start
 ```
 
 ## Botkit Starter Kit
