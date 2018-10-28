@@ -7,6 +7,9 @@ Slackbot for Eagle Eye project integration
 ```bash
 npm install
 token=<bot_token> npm start
+
+# expose local server
+lt --port 8000
 ```
 
 ## Botkit Starter Kit
