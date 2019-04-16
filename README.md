@@ -1,5 +1,7 @@
 # cyclops
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PXMYH/cyclops.svg)](https://greenkeeper.io/)
+
 Slackbot for Eagle Eye project integration
 
 ## Simplest Way to Get Started
